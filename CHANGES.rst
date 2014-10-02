@@ -1,10 +1,14 @@
 Changelog
 =========
 
-1.5 (unreleased)
+2.0 (unreleased)
 ----------------
 
-- Nothing changed yet.
+- Use ``argparse`` for better commandline help
+  [jensens]
+
+- Run tests in parallel using threading.
+  [jensens]
 
 
 1.4 (2014-03-02)
